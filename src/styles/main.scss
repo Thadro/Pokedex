@@ -1,0 +1,17 @@
+/////// Utils
+@import 'utils/reset';
+@import 'utils/vars';
+@import 'utils/fonts';
+@import 'utils/mixins';
+
+/////// Template
+
+@import './templates/home.scss';
+
+////// Layout
+
+@import './layout/header.scss';
+
+////// Component
+
+
