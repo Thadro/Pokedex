@@ -1,8 +1,11 @@
-import React from 'react'
+import React from 'react';
+import Logo from '../components/Logo'
 
 function Header() {
   return (
-    <div>Header</div>
+    <div className='Header'>
+      <Logo/>
+    </div>
   )
 }
 
